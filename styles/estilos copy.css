@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+.hero {
+    background-size: cover;
+    background-position: right center;
+    background-image: url(../imagens/close-up-de-graos-de-cafe-torrados1.jpg);
+   
+}
+
+.hero-content{
+    margin: 50px auto 0;
+    width: 80%;
+    text-align: center;
+    color: rgba(185, 163, 155, 0.985);
+}
+
+.hero-content h1 { 
+    font-size: 56px;
+    text-shadow: 2px 2px 2px rgb(94, 45, 6);
+    text-transform: uppercase;
+
+}
+
+.hero-content p {
+    background-color: rgba(0, 0, 0, .7);
+    font-size: 18px;
+    display: inline-block;
+    padding: 16px;
+    border-bottom: 2px solid;
+}
+
+.container {
+    font-size: 20px;
+    color: rgb(62, 59, 4);
+    background-color: blanchedalmond;
+    
+   }
+
+.rodape{
+    font-size: 18px;
+   text-align: center;
+    color: brown;
+}
